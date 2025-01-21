@@ -10,7 +10,17 @@ This is an early release, and there are some **limitations**:
 
 # Install
 
-[Download the latest release](https://github.com/chaychoong/opusone/releases/latest)
+## Homebrew
+
+If you are on Linux/MacOS, you can install this font using Homebrew.
+
+```sh
+brew install --cask chaychoong/tap/font-opus-one
+```
+
+## Manual
+
+Otherwise, download the latest release [here](https://github.com/chaychoong/opusone/releases/latest).
 
 If you are on Windows, go to `fonts/variable`, shift + right click, select `Install for all users`.
 
